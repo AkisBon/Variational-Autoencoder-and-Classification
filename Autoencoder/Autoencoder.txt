@@ -1,0 +1,25 @@
+
+classifier:
+epochs: 10, batch: 128, neurons: 64
+Flatten layer-dropout: 0.000000
+FC layer-dropout: 0.000000
+
+classifier:
+epochs: 10, batch: 128, neurons: 64
+Flatten layer-dropout: 0.000000
+FC layer-dropout: 0.000000
+
+classifier:
+epochs: 50, batch: 128, neurons: 64
+Flatten layer-dropout: 0.000000
+FC layer-dropout: 0.000000
+
+classifier:
+epochs: 10, batch: 128, neurons: 64
+Flatten layer-dropout: 0.000000
+FC layer-dropout: 0.000000
+
+classifier:
+epochs: 25, batch: 128, neurons: 64
+Flatten layer-dropout: 0.000000
+FC layer-dropout: 0.000000
